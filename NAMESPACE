@@ -2,5 +2,6 @@
 
 export(getsamplezscores)
 export(mybin)
+export(mycltb)
 export(myfirstfunction)
 export(myncurve)

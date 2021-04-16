@@ -3,6 +3,7 @@
 export(getsamplezscores)
 export(mybin)
 export(myboot2)
+export(myci)
 export(mycltb)
 export(myfirstfunction)
 export(mymaxlik)
